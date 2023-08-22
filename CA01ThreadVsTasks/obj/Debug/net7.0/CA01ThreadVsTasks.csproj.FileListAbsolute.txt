@@ -1,0 +1,15 @@
+C:\Users\COMPUMARTS\source\repos\AsyncProgramming\CA01ThreadVsTasks\bin\Debug\net7.0\CA01ThreadVsTasks.exe
+C:\Users\COMPUMARTS\source\repos\AsyncProgramming\CA01ThreadVsTasks\bin\Debug\net7.0\CA01ThreadVsTasks.deps.json
+C:\Users\COMPUMARTS\source\repos\AsyncProgramming\CA01ThreadVsTasks\bin\Debug\net7.0\CA01ThreadVsTasks.runtimeconfig.json
+C:\Users\COMPUMARTS\source\repos\AsyncProgramming\CA01ThreadVsTasks\bin\Debug\net7.0\CA01ThreadVsTasks.dll
+C:\Users\COMPUMARTS\source\repos\AsyncProgramming\CA01ThreadVsTasks\bin\Debug\net7.0\CA01ThreadVsTasks.pdb
+C:\Users\COMPUMARTS\source\repos\AsyncProgramming\CA01ThreadVsTasks\obj\Debug\net7.0\CA01ThreadVsTasks.csproj.AssemblyReference.cache
+C:\Users\COMPUMARTS\source\repos\AsyncProgramming\CA01ThreadVsTasks\obj\Debug\net7.0\CA01ThreadVsTasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\COMPUMARTS\source\repos\AsyncProgramming\CA01ThreadVsTasks\obj\Debug\net7.0\CA01ThreadVsTasks.AssemblyInfoInputs.cache
+C:\Users\COMPUMARTS\source\repos\AsyncProgramming\CA01ThreadVsTasks\obj\Debug\net7.0\CA01ThreadVsTasks.AssemblyInfo.cs
+C:\Users\COMPUMARTS\source\repos\AsyncProgramming\CA01ThreadVsTasks\obj\Debug\net7.0\CA01ThreadVsTasks.csproj.CoreCompileInputs.cache
+C:\Users\COMPUMARTS\source\repos\AsyncProgramming\CA01ThreadVsTasks\obj\Debug\net7.0\CA01ThreadVsTasks.dll
+C:\Users\COMPUMARTS\source\repos\AsyncProgramming\CA01ThreadVsTasks\obj\Debug\net7.0\refint\CA01ThreadVsTasks.dll
+C:\Users\COMPUMARTS\source\repos\AsyncProgramming\CA01ThreadVsTasks\obj\Debug\net7.0\CA01ThreadVsTasks.pdb
+C:\Users\COMPUMARTS\source\repos\AsyncProgramming\CA01ThreadVsTasks\obj\Debug\net7.0\CA01ThreadVsTasks.genruntimeconfig.cache
+C:\Users\COMPUMARTS\source\repos\AsyncProgramming\CA01ThreadVsTasks\obj\Debug\net7.0\ref\CA01ThreadVsTasks.dll
