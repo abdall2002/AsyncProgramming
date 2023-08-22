@@ -1,0 +1,15 @@
+C:\Users\COMPUMARTS\source\repos\AsyncProgramming\CA02TaskReturnsValue\bin\Debug\net7.0\CA02TaskReturnsValue.exe
+C:\Users\COMPUMARTS\source\repos\AsyncProgramming\CA02TaskReturnsValue\bin\Debug\net7.0\CA02TaskReturnsValue.deps.json
+C:\Users\COMPUMARTS\source\repos\AsyncProgramming\CA02TaskReturnsValue\bin\Debug\net7.0\CA02TaskReturnsValue.runtimeconfig.json
+C:\Users\COMPUMARTS\source\repos\AsyncProgramming\CA02TaskReturnsValue\bin\Debug\net7.0\CA02TaskReturnsValue.dll
+C:\Users\COMPUMARTS\source\repos\AsyncProgramming\CA02TaskReturnsValue\bin\Debug\net7.0\CA02TaskReturnsValue.pdb
+C:\Users\COMPUMARTS\source\repos\AsyncProgramming\CA02TaskReturnsValue\obj\Debug\net7.0\CA02TaskReturnsValue.csproj.AssemblyReference.cache
+C:\Users\COMPUMARTS\source\repos\AsyncProgramming\CA02TaskReturnsValue\obj\Debug\net7.0\CA02TaskReturnsValue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\COMPUMARTS\source\repos\AsyncProgramming\CA02TaskReturnsValue\obj\Debug\net7.0\CA02TaskReturnsValue.AssemblyInfoInputs.cache
+C:\Users\COMPUMARTS\source\repos\AsyncProgramming\CA02TaskReturnsValue\obj\Debug\net7.0\CA02TaskReturnsValue.AssemblyInfo.cs
+C:\Users\COMPUMARTS\source\repos\AsyncProgramming\CA02TaskReturnsValue\obj\Debug\net7.0\CA02TaskReturnsValue.csproj.CoreCompileInputs.cache
+C:\Users\COMPUMARTS\source\repos\AsyncProgramming\CA02TaskReturnsValue\obj\Debug\net7.0\CA02TaskReturnsValue.dll
+C:\Users\COMPUMARTS\source\repos\AsyncProgramming\CA02TaskReturnsValue\obj\Debug\net7.0\refint\CA02TaskReturnsValue.dll
+C:\Users\COMPUMARTS\source\repos\AsyncProgramming\CA02TaskReturnsValue\obj\Debug\net7.0\CA02TaskReturnsValue.pdb
+C:\Users\COMPUMARTS\source\repos\AsyncProgramming\CA02TaskReturnsValue\obj\Debug\net7.0\CA02TaskReturnsValue.genruntimeconfig.cache
+C:\Users\COMPUMARTS\source\repos\AsyncProgramming\CA02TaskReturnsValue\obj\Debug\net7.0\ref\CA02TaskReturnsValue.dll
