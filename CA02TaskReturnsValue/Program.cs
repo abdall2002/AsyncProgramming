@@ -7,7 +7,7 @@ Task<DateTime> task = Task.Run(GetCurrentDateTime);
 //Console.WriteLine(task);           // -> print "System.Threading.Tasks.Task`1[System.DateTime]"
 //Console.WriteLine(task.Result);    // -> print "8/22/2023 2:54:00 PM"
 
-Console.WriteLine(task.GetAwaiter().GetResult());
+Console.WriteLine(task.GetAwaiter().GetResult());      // -> print "8/22/2023 2:54:00 PM"
 static DateTime GetCurrentDateTime() => DateTime.Now;
 
 
