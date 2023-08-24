@@ -1,0 +1,15 @@
+C:\Users\COMPUMARTS\source\repos\AsyncProgramming\CA03LongRunningTask\bin\Debug\net7.0\CA03LongRunningTask.exe
+C:\Users\COMPUMARTS\source\repos\AsyncProgramming\CA03LongRunningTask\bin\Debug\net7.0\CA03LongRunningTask.deps.json
+C:\Users\COMPUMARTS\source\repos\AsyncProgramming\CA03LongRunningTask\bin\Debug\net7.0\CA03LongRunningTask.runtimeconfig.json
+C:\Users\COMPUMARTS\source\repos\AsyncProgramming\CA03LongRunningTask\bin\Debug\net7.0\CA03LongRunningTask.dll
+C:\Users\COMPUMARTS\source\repos\AsyncProgramming\CA03LongRunningTask\bin\Debug\net7.0\CA03LongRunningTask.pdb
+C:\Users\COMPUMARTS\source\repos\AsyncProgramming\CA03LongRunningTask\obj\Debug\net7.0\CA03LongRunningTask.csproj.AssemblyReference.cache
+C:\Users\COMPUMARTS\source\repos\AsyncProgramming\CA03LongRunningTask\obj\Debug\net7.0\CA03LongRunningTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\COMPUMARTS\source\repos\AsyncProgramming\CA03LongRunningTask\obj\Debug\net7.0\CA03LongRunningTask.AssemblyInfoInputs.cache
+C:\Users\COMPUMARTS\source\repos\AsyncProgramming\CA03LongRunningTask\obj\Debug\net7.0\CA03LongRunningTask.AssemblyInfo.cs
+C:\Users\COMPUMARTS\source\repos\AsyncProgramming\CA03LongRunningTask\obj\Debug\net7.0\CA03LongRunningTask.csproj.CoreCompileInputs.cache
+C:\Users\COMPUMARTS\source\repos\AsyncProgramming\CA03LongRunningTask\obj\Debug\net7.0\CA03LongRunningTask.dll
+C:\Users\COMPUMARTS\source\repos\AsyncProgramming\CA03LongRunningTask\obj\Debug\net7.0\refint\CA03LongRunningTask.dll
+C:\Users\COMPUMARTS\source\repos\AsyncProgramming\CA03LongRunningTask\obj\Debug\net7.0\CA03LongRunningTask.pdb
+C:\Users\COMPUMARTS\source\repos\AsyncProgramming\CA03LongRunningTask\obj\Debug\net7.0\CA03LongRunningTask.genruntimeconfig.cache
+C:\Users\COMPUMARTS\source\repos\AsyncProgramming\CA03LongRunningTask\obj\Debug\net7.0\ref\CA03LongRunningTask.dll
